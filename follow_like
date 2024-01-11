@@ -156,7 +156,7 @@ while True:
     # os.system('start '+link)
     for i in range(delay,-1,-1):
       for x in['red','blue','yellow','cyan']:
-        print(colored("còn "+str(i)+" giây ",x),end = '\r')
+        print(colored("còn "+str(i)+" s ",x),end = '\r')
         sleep(0.25)
     local_time = time.localtime()
     hour = local_time.tm_hour
