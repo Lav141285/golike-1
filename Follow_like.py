@@ -5,6 +5,7 @@ try:
   from termcolor import colored
 except:
   os.system('pip install termcolor')
+os.system('pip install requests')
   from termcolor import colored
 os.system('clear')
 try:
