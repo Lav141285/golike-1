@@ -259,6 +259,170 @@ VFZSamQwMTZVWHBPYWtGNVRtYzlQUT09       \n";
 
 
 cc($mt);
+$baner = $yellow."\n
+
+
+
+
+
+vuanhle85
+
+
+
+
+
+Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9nYXRld2F5LmdvbGlrZS5uZXRcL2FwaVwvbG9naW4iLCJpYXQiOjE3MDE1ODg3NTIsImV4cCI6MTczMzEyNDc1MiwibmJmIjoxNzAxNTg4NzUyLCJqdGkiOiJ6cHg5T2o0VUQ5SXpyam55Iiwic3ViIjoyMzE2OTIwLCJwcnYiOiJiOTEyNzk5NzhmMTFhYTdiYzU2NzA0ODdmZmYwMWUyMjgyNTNmZTQ4In0.I9lmzgN6F8Mh8cJX82fCSOD_LXNZRv6udH8PzPT3FWw
+
+
+
+
+
+\n\n";
+
+$mt = $yellow
+
+."
+\n\n";
+
+cc($baner);
+echo $green."
+VFZSamQwMVVVWGxPUkd0NVQwRTlQUT09       \n";
+
+$baner = $res."\n
+
+
+
+hothithuy57
+
+
+
+
+Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9nYXRld2F5LmdvbGlrZS5uZXRcL2FwaVwvbG9naW4iLCJpYXQiOjE3MDI1NTcyMjUsImV4cCI6MTczNDA5MzIyNSwibmJmIjoxNzAyNTU3MjI1LCJqdGkiOiJvdWRQeE82d3FiUzJiUXZ3Iiwic3ViIjoyMTYzMjUxLCJwcnYiOiJiOTEyNzk5NzhmMTFhYTdiYzU2NzA0ODdmZmYwMWUyMjgyNTNmZTQ4In0.4b48DATyX0aA0a95lI50RnrLMXJPjSp5-KSR9aI5T2I
+
+\n\n";
+
+$mt = $res
+
+."
+\n\n";
+
+cc($baner);
+echo $green."
+VFZSamQwMXFWVEZPZWtrelRrRTlQUT09       \n";
+
+$baner = $red."\n
+
+
+
+leanhvu1985
+
+
+
+
+
+Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9nYXRld2F5LmdvbGlrZS5uZXRcL2FwaVwvbG9naW4iLCJpYXQiOjE3MDI1OTg0NTksImV4cCI6MTczNDEzNDQ1OSwibmJmIjoxNzAyNTk4NDU5LCJqdGkiOiJLdWVGd1hVQnRyaW9DelR0Iiwic3ViIjoyNDg2NDYzLCJwcnYiOiJiOTEyNzk5NzhmMTFhYTdiYzU2NzA0ODdmZmYwMWUyMjgyNTNmZTQ4In0.sjpf_EWeUkQcELOsCEejTrogc9ii0ko_zGE3_eG5rhY
+
+
+\n\n";
+
+$mt = $red
+
+."
+\n\n";
+
+cc($baner);
+echo $green."
+VFZSamQwMXFWVFZQUkZFMVRrRTlQUT09       \n";
+
+
+
+
+
+
+
+
+
+
+
+$baner = $pink."\n
+
+
+
+
+
+
+intagramlav
+
+
+
+
+
+Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9nYXRld2F5LmdvbGlrZS5uZXRcL2FwaVwvbG9naW4iLCJpYXQiOjE3MDI5NDEyMjIsImV4cCI6MTczNDQ3NzIyMiwibmJmIjoxNzAyOTQxMjIyLCJqdGkiOiJFZ3VJbUhFMW0xbFdScXM5Iiwic3ViIjoyNDkwMDM1LCJwcnYiOiJiOTEyNzk5NzhmMTFhYTdiYzU2NzA0ODdmZmYwMWUyMjgyNTNmZTQ4In0.kz2Kt48jd80p2A2hhry2Umk1WrQ7TeDEXFI9CEDCCSo
+
+
+\n\n";
+
+$mt = $red
+
+."
+\n\n";
+
+cc($baner);
+echo $green."
+VFZSamQwMXFhekZPUkVreFRVRTlQUT09       \n";
+
+
+
+
+
+$baner = $pink."\n
+
+
+
+
+
+
+dothihong1992
+
+
+
+
+
+Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9nYXRld2F5LmdvbGlrZS5uZXRcL2FwaVwvbG9naW4iLCJpYXQiOjE3MDM0MzU3MDksImV4cCI6MTczNDk3MTcwOSwibmJmIjoxNzAzNDM1NzA5LCJqdGkiOiJpY2haT2xaZm1la1haOGZ4Iiwic3ViIjoyNDk2MDA0LCJwcnYiOiJiOTEyNzk5NzhmMTFhYTdiYzU2NzA0ODdmZmYwMWUyMjgyNTNmZTQ4In0.KGqanAmjUGazWdRFA8-UIBtCqILtLG0CcMtsANYvzic
+
+
+\n\n";
+
+$mt = $red
+
+."
+\n\n";
+
+cc($baner);
+echo $green."
+VFZSamQwMTZVWHBPYWtGNVRtYzlQUT09       \n";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cc($mt);
 /*[Tool Tao Cấm Buôn Bán ]*/
 /*[Tools Nguyễn Văn Phúc ]*/
 /*[Tool Tao Cấm Buôn Bán ]*/
