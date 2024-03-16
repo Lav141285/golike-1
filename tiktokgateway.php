@@ -17,6 +17,7 @@ $cam = "\e[38;5;208m";
 $loijob = [];
  
 $loitk = [];
+
  
 error_reporting(0);
 system('clear');
