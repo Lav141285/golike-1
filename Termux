@@ -3,6 +3,7 @@ printf '\n\033[1;32m Tiến Hành Cài Dữ Liệu\033[0m\n\n'
 termux-setup-storage
 apt update
 apt upgrade
+php install php
 printf '\n\033[1;32m Tiến Hành Cài Python\033[0m\n\n'
 pkg install python
 pip install requests
