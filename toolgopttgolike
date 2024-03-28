@@ -28,14 +28,14 @@ echo $yellow."~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n";
 
 echo "$red |======================================================|\n$yellow";
 
-echo "\033[1;32m     
+  
 echo "\033[1;32m     LEANHVU     \033[1;36m      \033[1;32mLEANHVU\n";
 echo "\033[1;32m     
 usleep(1);
-echo"■\033[1;31m[\033[1;37m=.=\033[1;31m] \033[1;37m=> \033[1;32m LAM TAY  \n"; 
 
 
-echo "follow like     \n";
+
+echo " like     \n";
 
 echo "💠]>$blud Nhập $res [1] $cam $red vuanhle85   $cam 》$nau -$yellow vuanhle85\n";
 
@@ -54,6 +54,9 @@ echo "\033[1;31m─────────────────────�
 echo "UPDATE      \n";
 
 echo "💠]>$blud Nhập $res [2] $cam $red UPDATE $cam 》$nau -$yellow [][][][][]\n";
+
+
+
 echo "$red |======================================================|\n";
 while(true){
 echo "$trang ♨️$red>>[$nau leanhvu $red]$nau=》";
