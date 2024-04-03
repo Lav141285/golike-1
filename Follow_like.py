@@ -15,8 +15,8 @@ except:
 select = input(colored("(lần đầu ấn 'y'  đăng nhập lại  ấn 'n'","cyan"))
 while True:
   if select == 'y':
-    Author = input(colored("nhập Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9nYXRld2F5LmdvbGlrZS5uZXRcL2FwaVwvbG9naW4iLCJpYXQiOjE3MTIxMjQ2MTYsImV4cCI6MTc0MzY2MDYxNiwibmJmIjoxNzEyMTI0NjE2LCJqdGkiOiJGQWViQ2duS1Y5RkZsM0o5Iiwic3ViIjoyNjI0ODUzLCJwcnYiOiJiOTEyNzk5NzhmMTFhYTdiYzU2NzA0ODdmZmYwMWUyMjgyNTNmZTQ4In0.uCydURoZWywiXH9tYWGrBtgRZcVP1RDaYp9EbASF7eo     ","yellow"))
-    T = input(colored("nhập T:VFZSamVFMXFSWGxPUkZsNVRsRTlQUT09","yellow"))
+    Author = input(colored("nhập Authorization:                Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9nYXRld2F5LmdvbGlrZS5uZXRcL2FwaVwvbG9naW4iLCJpYXQiOjE3MTIxMjQ2MTYsImV4cCI6MTc0MzY2MDYxNiwibmJmIjoxNzEyMTI0NjE2LCJqdGkiOiJGQWViQ2duS1Y5RkZsM0o5Iiwic3ViIjoyNjI0ODUzLCJwcnYiOiJiOTEyNzk5NzhmMTFhYTdiYzU2NzA0ODdmZmYwMWUyMjgyNTNmZTQ4In0.uCydURoZWywiXH9tYWGrBtgRZcVP1RDaYp9EbASF7eo     ","yellow"))
+    T = input(colored("nhập T:              VFZSamVFMXFSWGxPUkZsNVRsRTlQUT09","yellow"))
     a = open("Author","w")
     t = open("T.txt","w")
     a.write(Author)
