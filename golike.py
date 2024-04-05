@@ -147,10 +147,10 @@ while True:
     oid = get['data']['object_id']
     idjob = get['data']['id']
     link = get['data']['link']
-    if 'video' in link:
-      loi = boqua(idjob,oid,idtt,'like')
+    if 'video'  not in link:
+      loi = boqua(idjob,oid,idtt,'follow')
       sen = send(idjob,idtt)
-    elif 'video' not in link:
+    elif 'video'  in link:
       webbrowser.open(link)
     for i in range(delay,-1,-1):
       for x in['red','blue','yellow','cyan']:
@@ -170,7 +170,7 @@ while True:
       print(end = ' ')
       print(colored(t,"cyan"),"|",colored(ht['data']['type'],"green"),"|",colored(hour,'yellow')+":"+colored(minute,"yellow")+":"+colored(second,"yellow"),"|","+",colored(gia['data'][0]['prices'],'magenta'),colored("xu","blue"),colored("==>","cyan"),colored(f"tổng: {tong}","yellow"))
     elif ht['status'] >= 400:
-      loai = 'follow'
+      loai = 'like'
       try:  
         sen = send(idjob,idtt)
         loi = boqua(idjob,oid,idtt,loai)
@@ -178,6 +178,6 @@ while True:
       except:
         print('boqua')
   elif get['success'] == False:
-    print(colored("đang tìm chốp","blue"))
+    print(colored("đang tìm j","blue"))
     sleep(1)
     
