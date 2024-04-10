@@ -276,7 +276,7 @@ $i = $l + $o;
  
     $loi_id = $golike['data']['object_id'];
  
-    if ($ty == "comment" or $ty == "") {
+    if ($ty == "comment" or $ty == "follow") {
         echo "Job $ty đã chặn vì chỉ follow         \r";
         $data = '{"ads_id":'.$uid.',"object_id":"'.$loi_id.'","account_id":'.$id.',"type":"'.$ty.'"}';
  
@@ -300,7 +300,7 @@ $i = $l + $o;
         echo "Đang Làm job $ty | $uid          \r";
     }
  
-    system("termux-open-url $link");
+    
  
     for ($time = $delayfl; $time > -1; $time--) {
         echo $yellow."Vui lòng đợi 🕕$time để thực hiện... \r"; sleep(1);
