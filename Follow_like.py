@@ -148,11 +148,12 @@ while True:
     idjob = get['data']['id']
     link = get['data']['link']
     if 'video'  in link:
-        
+        os.system('termux-open '+link)
+    # os.system('start '+link)
       
     elif 'video' not in link:
-          
-
+          os.system('termux-open '+link)
+    # os.system('start '+link)
     for i in range(delay,-1,-1):
       for x in['red','blue','yellow','cyan']:
         print(colored("còn "+str(i)+" s ",x),end = '\r')
